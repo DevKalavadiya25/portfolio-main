@@ -23,7 +23,7 @@ const projects = [
     link: "https://i.postimg.cc/P5Txj1T1/Screenshot-2025-10-01-175901.png",
     color: "#8f89ff",
     githubLink: "",
-    liveLink: "https://codervai.vercel.app",
+    liveLink: "https://portfolio-main-54sz.vercel.app/",
   },
   {
     title: "🚀 A cake shop using react-Front-End",
@@ -33,7 +33,7 @@ const projects = [
     link: "https://iili.io/KVjNScv.png",
     color: "#fff",
     githubLink: "https://github.com/DevKalavadiya25/Cake-Shop-E-commerce.git",
-    liveLink: "",
+    liveLink: "https://cake-shop-e-commerce.vercel.app/",
   },
  
 ];
