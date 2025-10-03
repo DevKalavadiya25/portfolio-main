@@ -22,7 +22,7 @@ const projects = [
     // src: "tree.jpg",
     link: "https://i.postimg.cc/P5Txj1T1/Screenshot-2025-10-01-175901.png",
     color: "#8f89ff",
-    githubLink: "",
+    githubLink: "https://github.com/DevKalavadiya25/portfolio-main.git",
     liveLink: "https://portfolio-main-54sz.vercel.app/",
   },
   {
